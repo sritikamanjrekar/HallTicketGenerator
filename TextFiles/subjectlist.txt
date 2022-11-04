@@ -1,0 +1,6 @@
+DBMS
+OOP
+SE
+DIVP
+DSP
+EKIT

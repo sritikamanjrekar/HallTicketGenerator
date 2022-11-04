@@ -1,0 +1,12 @@
+
+Hall Ticket No: 22405
+Student Name: Sritika Manjrekar
+Student Mobile Number: 9769137350
+Student Email ID: manjrekarsritika@gmail.com
+Student Gender: F
+Subject Name: EKIT
+Exam Time: 9:30
+Exam Seat No: C67041
+Exam Fees Paid: Rs.100
+UPI ID: sritikamanjrekar@9769.paytm
+
