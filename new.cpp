@@ -21,22 +21,8 @@ protected:
     const char *timing[6] = {"8:00", "9:30", "12:00", "01:30", "1:00", "10:30"};
 
 private:
-    void Seat_Arrangement()
-    {
-        ofstream seats;
-        seats.open("./TextFiles/h1.txt");
-        seats << "\tSeats Arrangement" << endl;
-        for (int i = 0; i < 10; i++)
-        {
-            for (int j = 0; j < 10; j++)
-            {
-                seats << i << j << " ";
-                if (j == 9)
-                    seats << endl;
-            }
-        }
-        seats.close();
-    }
+    
+    
     char Assign_examHallid(int id)
     {
         switch (id)
